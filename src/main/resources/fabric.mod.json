@@ -13,7 +13,7 @@
 		"minecraft_server": "https://discord.gg/ZsR6XuTkTX",
 		"discord_team": "https://discord.gg/XmGF7rkkuY"
 	},
-	"license": "MIT",
+	"license": "LGPL-3.0",
 	"icon": "assets/talking-heads/icon.png",
 	"environment": "*",
 	"entrypoints": {
