@@ -9,10 +9,25 @@
   </div>
 </div>
 
+---
+
 # 💬 Description
-Client-Side Fabric mod (addon) for PlasmoVoice & SimpleVoiceChat, that scales player heads when they're talking.
+> **Client-Side Fabric mod (addon) for PlasmoVoice & SimpleVoiceChat**  
+> Scales player heads when they're talking.  
+> ---
+> Fully compatible with both **PlasmoVoice** and **SimpleVoiceChat**, and can be used with both at the same time!
 
+
+<div align="center">
   <img src="https://cdn.modrinth.com/data/Os35nfkh/images/b01581dd52e32d703fbb5605f4851fbc639d024e.gif" width="500px" alt="mod showcase"/>
+</div>
 
-### ❗ If you are using this mod for PlasmoVoice, you required PlasmoVoice >=2.1.0 version
-[The correct PlasmoVoice version is on the mod page [click].](https://modrinth.com/plugin/plasmo-voice/versions?c=release&l=fabric)
+---
+
+## ❗ Required updates
+🔹**Update `ModMenu`, `YACL`, (`PlasmoVoice` and/or `SimpleVoiceChat`) to the latest version!**  
+🔹**Supported Versions:**
+- **Plasmo Voice:** `>=2.1.0`
+- **Simple Voice Chat:** `>=2.5.27`
+
+---
