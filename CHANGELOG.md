@@ -1,0 +1,5 @@
+- Added support for SimpleVoiceChat mod 🎉
+- Added support for other versions of minecraft [1.20.1 & 1.21-1.21.4]
+- The mod settings screen has been changed: ClothConfig -> YACL
+- Additional configuration parameters have been added (removedVolume, scaleX, scaleY, scaleZ).
+- Fixed the bug of displaying the skull on the head.

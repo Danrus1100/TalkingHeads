@@ -1,0 +1,21 @@
+{
+  "modmenu.descriptionTranslation.${mod_id}": "Клиентский Fabric мод (аддон) для PlasmoVoice & SimpleVoiceChat, который масштабирует головы игроков во время разговора.",
+
+  "text.title": "§l Конфигурация ${mod_name}",
+  "text.category.general": "Общие настройки",
+
+  "text.option.general.enableMod": "Включить мод",
+  "text.option.general.enableMod.desc": "Активирует или отключает все функции мода.",
+
+  "text.option.general.removedVolume": "Скорость затухания",
+  "text.option.general.removedVolume.desc": "Как быстро уменьшается эффект после завершения речи.",
+
+  "text.option.general.scaleX": "Масштаб головы по X-оси",
+  "text.option.general.scaleX.desc": "Изменяет размер головы по горизонтальной оси (X).",
+
+  "text.option.general.scaleY": "Масштаб головы по Y-оси",
+  "text.option.general.scaleY.desc": "Изменяет размер головы по вертикальной оси (Y).",
+
+  "text.option.general.scaleZ": "Масштаб головы по Z-оси",
+  "text.option.general.scaleZ.desc": "Изменяет глубину головы по оси (Z)."
+}
