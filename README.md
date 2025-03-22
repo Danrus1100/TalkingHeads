@@ -13,7 +13,7 @@
 
 # 💬 Description
 > **Client-Side Fabric mod (addon) for PlasmoVoice & SimpleVoiceChat**  
-> Scales player heads when they're talking.  
+> That scales player heads when they're talking.  
 >
 > Fully compatible with both **PlasmoVoice** and **SimpleVoiceChat**, and can be used with both at the same time!
 
